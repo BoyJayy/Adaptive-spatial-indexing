@@ -1,7 +1,5 @@
 # Adaptive Spatial Indexing
 
-# or Adaptive-spatial-indexing-for-fixed-radius-neighbor-search-in-dynamic-particle-systems
-
 Online adaptive spatial index selection for fixed-radius neighbor search
 in dynamic particle systems.
 
